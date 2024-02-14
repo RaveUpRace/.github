@@ -42,15 +42,6 @@ We're excited to welcome new contributors to this project. If you're passionate 
 4.  **Documentation Updates**: Keep the documentation up to date and easy to follow.
 5.  **Bug Reports and Feature Suggestions**: Report bugs, suggest new features, or improvements.
 
-## Installation
-
-To obtain the source code and start contributing, follow these steps:
-
-```bash code
-git clone https://github.com/yourname/RaveUpRace.git
-cd RaveUpRace
-```
-
 Additional installation commands depending on the language and technology used.
 
 ## Contact Us
